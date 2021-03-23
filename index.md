@@ -7,8 +7,11 @@ For a Fusor to fuse atoms the first necessary component is a vacuum chamber. I d
 ### Machining
 To begin I had to use a lathe to drill out the on axis ports of the vacuum chamber. I used various drills to enlarge the hole and then used a boring bar to take it to its final dimensions. I broke a couple of bits while doing this.
 ![Lathe Boring](https://raw.githubusercontent.com/FuzzyBunnys/Vacuum-Chamber/gh-pages/image2(1).JPG)
+
 I had to use a tilting table to drill out the 4 off axis ports on each hemisphere. Again the process was basically the same as the lathe, drill out the hole with successively larger drill bits and then use a boring bar to take everything to the precise size. I broke some more bits.
+
 ![Mill Drilling](https://raw.githubusercontent.com/FuzzyBunnys/Vacuum-Chamber/gh-pages/image1.jpeg)
+
 I would not have been able to undertake any of this work without access to machine tools, [Protospace](https://protospace.ca/), a local makerspace in Calgary, provided access to those tools. Very kindly, they also provided training so that I didn't rip my hands off, and got an understanding of how to use these intimidating machines. After that I was off to the races, where I still made many many mistakes like say breaking lots of cutting tools. 
 ### Welding
 Once all the holes have been made, the next step is to melt some metal! I bought a cheap TIG welding machine off of Amazon, and then had to procure all the bits and bobs to make it work. A gas tank, regulator, welding rods, electrodes, a lot of making things seems to be shopping for some reason. After that I practiced on some bits of scrap metal and I was able to go from terrible looking welds to okish looking welds. Then it was off to the races and doing all the welding on my chamber.   
